@@ -1,20 +1,22 @@
 # ans/blockchain
 
-**This project will be based primarily on your ability to fulfill the task requirements. Any potential design skills are a bonus, but usability, performance and security will be taken into account.**
+**This project will depend on your ability to fulfil the task requirements. Any potential design skills are a bonus, but usability, performance and security will be considered.**
 
 ## Introduction
 
-This project provides a starting point which will allow you to create an app that retrieves the data from the blockchain api to fetch cryptocurrency information.
+This project provides a starting point for creating an app that retrieves data from the blockchain API to fetch cryptocurrency information.
 
 ## Project Requirements
 
-We require this project to be completed in React. You are welcome to utilise Remix or NextJS. **However using those frameworks has no effect on the outcome**. You are more than welcome to use utility frameworks like TailwindCSS.
+We require this project to be completed in React. You are welcome to use Remix or NextJS. **However, using those frameworks has no effect on the outcome. ** You are more than welcome to use utility frameworks like TailwindCSS.
 
 ## Task Requirements
 
-Create an app that allows the users to search for a cryptocurrency, and allows them to convert the currencies. A RESTful API is available at [Blockchain](https://blockchain.info/ticker)
+Create an app that allows users to search for a cryptocurrency and convert currencies. A RESTful API is available at [Blockchain](https://blockchain.info/ticker)
 
-The app should have two views. One for displaying the currencies returned and one for converting an inputted amount of a particular currency. There should be a way of navigating/switching between the two views.
+The app should have two views: one for displaying the currencies returned and one for converting an inputted amount of a particular currency. There should be a way to navigate between the two views.
+
+We recommend that you spend no more than one hour on this challenge, we are more interested in how you approach the task than spending lots of time on it.
 
 
 ### User Stories
